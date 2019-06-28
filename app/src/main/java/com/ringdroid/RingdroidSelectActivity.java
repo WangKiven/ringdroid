@@ -16,11 +16,6 @@
 
 package com.ringdroid;
 
-import java.io.File;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 import android.Manifest;
 import android.app.AlertDialog;
 import android.app.ListActivity;
@@ -54,6 +49,10 @@ import android.widget.SimpleCursorAdapter;
 import android.widget.Toast;
 
 import com.ringdroid.soundfile.SoundFile;
+
+import java.io.File;
+import java.util.ArrayList;
+import java.util.Arrays;
 
 /**
  * Main screen that shows up when you launch Ringdroid. Handles selecting
