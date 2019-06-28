@@ -34,7 +34,7 @@
 
     <application android:label="@string/ringdroid_app_name"
                  android:icon="@drawable/ringdroidlogo"
-                 android:theme="@android:style/Theme.Holo"
+                 android:theme="@style/BaseTheme"
                  android:largeHeap="true"
                  android:allowBackup="true">
 
